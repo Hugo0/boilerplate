@@ -1,0 +1,6 @@
+# requirements
+autopep8
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+SQLAlchemy
