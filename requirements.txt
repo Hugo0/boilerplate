@@ -1,4 +1,5 @@
-# requirements
+# versions not included to keep this up to date going forward
+# install with ```pip install -r requirements.txt```
 autopep8
 Flask
 Flask-SQLAlchemy
